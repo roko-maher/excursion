@@ -2,6 +2,7 @@ html,
 body{
     background-color: black;
     text-align: center;
+    font-family: Verdana;
 }
 
 .paragraf{
@@ -24,8 +25,25 @@ body{
     color: gray;
 }
 
+.paragraf2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
 a{
     color: aquamarine;
     font-size: 16px;
 }
 
+.footer{
+    font-size: 16px;
+    text-align: right;
+    color: gray;
+}
+
+.slike, 
+.link{
+    margin-bottom: 20px;
+}
